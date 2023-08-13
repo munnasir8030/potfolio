@@ -22,16 +22,24 @@
 
     }
 
+.nevbar{
+width: 5%;
 
-
-
-
-.service :hover{
-cursor: pointer;
-/* background-color: lightgray; */
-/* color: white; */
-box-shadow: 0px 0px 10px 7px lightgray;
 
 }
 
-    
+
+
+/* .service :hover{
+cursor: pointer;
+/* background-color: lightgray; */
+/* color: white; */
+/* box-shadow: 0px 0px 10px 7px lightgray; */
+
+/* }  */
+
+.testimonial{
+width: 10%;
+
+
+}
